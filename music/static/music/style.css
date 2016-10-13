@@ -1,0 +1,36 @@
+body {
+    background: url("images/light.jpg");
+    background-attachment: fixed;
+    background-size: cover ;
+
+}
+
+ul.errorlist {
+    padding-left: 0;
+}
+
+ul.errorlist > li {
+    list-style: none;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.navbar-brand {
+    font-family: 'Roboto';
+}
+
+.glyphicon-star {
+    color: #CCCCCC;
+    font-size: 16px;
+}
+
+.glyphicon-star.active {
+    color: #FDB230;
+}
+
+h4{
+    text-align: center;
+    color: #CCCCCC;
+}
