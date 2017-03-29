@@ -1,1 +1,1 @@
-# firstDjangoSite
+# firstDjangoSiteProject
