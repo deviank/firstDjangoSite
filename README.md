@@ -1,1 +1,3 @@
 # firstDjangoSite
+
+updated subscriber list
